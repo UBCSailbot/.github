@@ -1,5 +1,5 @@
 ---
-name: New feature
+name: New Feature
 about: New feature or request
 title: ""
 labels: enhancement
