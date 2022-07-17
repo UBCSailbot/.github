@@ -1,7 +1,7 @@
 ---
 name: Infrastructure Update
 about: Update the repository's infrastructure
-title: "Infrastructure update: "
+title: ""
 labels: infrastructure
 
 ---
