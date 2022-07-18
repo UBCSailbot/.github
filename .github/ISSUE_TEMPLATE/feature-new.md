@@ -1,9 +1,9 @@
 ---
 name: New Feature
 about: New feature or request
-title: ""
+title: ''
 labels: enhancement
-assignees: ""
+assignees: ''
 
 ---
 
@@ -14,4 +14,4 @@ assignees: ""
 
 
 ### Relevant Resources
-- 
+-

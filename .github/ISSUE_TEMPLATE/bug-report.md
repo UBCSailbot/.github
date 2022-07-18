@@ -1,9 +1,9 @@
 ---
 name: Bug Report
 about: Report a bug
-title: ""
+title: ''
 labels: bug
-assignees: ""
+assignees: ''
 
 ---
 
@@ -22,5 +22,8 @@ assignees: ""
 ### Relevant Code
 
 
+### Initial Thoughts
+
+
 ### Relevant Resources
-- 
+-

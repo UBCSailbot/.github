@@ -1,9 +1,9 @@
 ---
 name: Update Feature
 about: Update or upgrade a feature
-title: ""
+title: ''
 labels: maintenance
-assignees: ""
+assignees: ''
 
 ---
 
@@ -14,4 +14,4 @@ assignees: ""
 
 
 ### Relevant Resources
-- 
+-
