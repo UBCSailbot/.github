@@ -14,6 +14,9 @@ assignees: ''
 ```yml
 nav:
   ...
+  - _Section_:
+    ...
+    - _Page_: _section_/_page_.md
 ```
 
 ### Contents
