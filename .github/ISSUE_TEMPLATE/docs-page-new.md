@@ -12,6 +12,8 @@ assignees: ''
 
 ### Page Tree
 ```yml
+nav:
+  ...
 ```
 
 ### Contents
