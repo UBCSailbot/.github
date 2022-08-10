@@ -22,5 +22,5 @@ nav:
 ### Topics
 - 
 
-### Relevant Resources
--
+### Resources
+- 

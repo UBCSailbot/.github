@@ -25,5 +25,5 @@ assignees: ''
 ### Initial Thoughts
 
 
-### Relevant Resources
--
+### Resources
+- 
