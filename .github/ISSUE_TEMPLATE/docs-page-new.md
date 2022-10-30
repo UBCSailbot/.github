@@ -1,7 +1,7 @@
 ---
 name: New Docs Page
 about: Create a new page in the docs
-title: Create docs page Section/Page
+title: Create docs page _Section_/_Page_
 labels: documentation, new-page
 assignees: ''
 
