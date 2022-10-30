@@ -8,14 +8,15 @@ assignees: ''
 ---
 
 ### Purpose
-_What is the purpose of this issue? What does this issue hope to achieve?_
 
+[//]: # (What is the purpose of this issue? What does this issue hope to achieve?)
 
 ### Changes
-_What changes will be made to the infrastructure of our GitHub organization? How will it be better?_
 
+[//]: # (What changes will be made to the infrastructure of our GitHub organization? How will it be better?)
 
 ### Resources
-_Link to extra resources that might help in updating the infrastructure._
+
+[//]: # (Link to extra resources that might help in updating the infrastructure.)
 
 - 
