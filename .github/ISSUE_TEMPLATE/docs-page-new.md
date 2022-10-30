@@ -1,33 +1,36 @@
 ---
 name: New Docs Page
 about: Create a new page in the docs
-title: Create docs page _Section_/_Page_
+title: Create docs page Section/Page
 labels: documentation, new-page
 assignees: ''
 
 ---
 
 ### Purpose
-_Describe why this issue is being created. What do we want to achieve?_
 
+[//]: # (Describe why this issue is being created. What do we want to achieve?)
 
 ### Page Tree
-_Show the updated page tree when the new page is added._
+
+[//]: # (Show the updated page tree when the new page is added.)
 
 ```yml
 nav:
   ...
-  - _Section_:
+  - Section:
     ...
-    - _Page_: _section_/_page_.md
+    - Page: section/page.md
 ```
 
 ### Topics
-_What are some topics that will be discussed on the new page?_
+
+[//]: # (What are some topics that will be discussed on the new page?)
 
 - 
 
 ### Resources
-_Link to any extra resources that might help with writing the new page._
+
+[//]: # (Link to any extra resources that might help with writing the new page.)
 
 - 
