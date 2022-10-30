@@ -8,14 +8,15 @@ assignees: ''
 ---
 
 ### Purpose
-_What is the purpose for creating this issue? What does this issue hope to acheieve?_
 
+[//]: # (What is the purpose for creating this issue? What does this issue hope to acheieve?)
 
 ### Description
-_Describe the enhancement/new feature that will be added. How does it make our project better?_
 
+[//]: # (Describe the enhancement/new feature that will be added. How does it make our project better?)
 
 ### Resources
-_Link to any extra resources that might help with the enhancements._
+
+[//]: # (Link to any extra resources that might help with the enhancements.)
 
 - 
