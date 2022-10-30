@@ -8,10 +8,14 @@ assignees: ''
 ---
 
 ### Purpose
+_Why is this issue being created? What is hoped to be achieved by addressing this issue?_
 
 
 ### Changes
+_What changes will be made to the existing docs page and why?_
 
 
 ### Resources
+_Link to any extra resources that could help with updating the docs page._
+
 - 
