@@ -8,9 +8,12 @@ assignees: ''
 ---
 
 ### Purpose
+_Describe why this issue is being created. What do we want to achieve?_
 
 
 ### Page Tree
+_Show the updated page tree when the new page is added._
+
 ```yml
 nav:
   ...
@@ -20,7 +23,11 @@ nav:
 ```
 
 ### Topics
+_What are some topics that will be discussed on the new page?_
+
 - 
 
 ### Resources
+_Link to any extra resources that might help with writing the new page._
+
 - 
