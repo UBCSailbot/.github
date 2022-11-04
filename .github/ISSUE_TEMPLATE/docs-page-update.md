@@ -8,13 +8,13 @@ assignees: ''
 ---
 ### Purpose
 
-[//]: # (Why is this issue being created? What is hoped to be achieved by addressing this issue?)
+<!-- Why is this issue being created? What is hoped to be achieved by addressing this issue? -->
 
 ### Changes
 
-[//]: # (What changes will be made to the existing docs page and why?)
+<!-- What changes will be made to the existing docs page and why? -->
 
 ### Resources
 
-[//]: # (Link to any extra resources that could help with updating the docs page.)
+<!-- Link to any extra resources that could help with updating the docs page. -->
 - 

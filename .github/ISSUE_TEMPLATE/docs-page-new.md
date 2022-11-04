@@ -9,11 +9,11 @@ assignees: ''
 
 ### Purpose
 
-[//]: # (Describe why this issue is being created. What do we want to achieve?)
+<!-- Describe why this issue is being created. What do we want to achieve? -->
 
 ### Page Tree
 
-[//]: # (Show the updated page tree when the new page is added.)
+<!-- Show the updated page tree when the new page is added. -->
 
 ```yml
 nav:
@@ -25,12 +25,12 @@ nav:
 
 ### Topics
 
-[//]: # (What are some topics that will be discussed on the new page?)
+<!-- What are some topics that will be discussed on the new page? -->
 
 - 
 
 ### Resources
 
-[//]: # (Link to any extra resources that might help with writing the new page.)
+<!-- Link to any extra resources that might help with writing the new page. -->
 
 - 
