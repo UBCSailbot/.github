@@ -9,18 +9,28 @@ assignees: ''
 
 ### Purpose
 
+[//]: # (Describe why this issue is being created. What do we want to achieve?)
 
 ### Page Tree
+
+[//]: # (Show the updated page tree when the new page is added.)
+
 ```yml
 nav:
   ...
-  - _Section_:
+  - Section:
     ...
-    - _Page_: _section_/_page_.md
+    - Page: section/page.md
 ```
 
 ### Topics
+
+[//]: # (What are some topics that will be discussed on the new page?)
+
 - 
 
 ### Resources
+
+[//]: # (Link to any extra resources that might help with writing the new page.)
+
 - 
