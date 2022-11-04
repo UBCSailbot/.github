@@ -17,6 +17,6 @@ assignees: ''
 
 ### Resources
 
-<!-- Link to extra resources that might help with updating the feature. -->
+<!-- Link to any extra resources that might help with the enhancements and describe the relevance if not obvious. -->
 
 - 

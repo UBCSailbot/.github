@@ -8,7 +8,7 @@ assignees: ''
 ---
 ### Purpose
 
-<!-- Why is this issue being created? What is hoped to be achieved by addressing this issue? -->
+<!-- Why is this page being updated? -->
 
 ### Changes
 
@@ -16,5 +16,5 @@ assignees: ''
 
 ### Resources
 
-<!-- Link to any extra resources that could help with updating the docs page. -->
+<!-- Link to any extra resources that might help and describe the relevance if not obvious. -->
 - 

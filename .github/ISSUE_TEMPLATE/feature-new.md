@@ -9,7 +9,7 @@ assignees: ''
 
 ### Purpose
 
-<!-- What is the purpose for creating this issue? What does this issue hope to acheieve? -->
+<!-- Why is this feature being implemented? Describe what lead to this feature being perceived. -->
 
 ### Description
 
@@ -17,6 +17,6 @@ assignees: ''
 
 ### Resources
 
-<!-- Link to any extra resources that might help with the enhancements. -->
+<!-- Link to any extra resources that might help with the enhancements and describe the relevance if not obvious. -->
 
 - 

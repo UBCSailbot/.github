@@ -17,6 +17,6 @@ assignees: ''
 
 ### Resources
 
-<!-- Link to extra resources that might help in updating the infrastructure. -->
+<!-- Link to any extra resources that might help with the enhancements and describe the relevance if not obvious. -->
 
 - 

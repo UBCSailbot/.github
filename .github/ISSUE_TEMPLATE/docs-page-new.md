@@ -9,7 +9,7 @@ assignees: ''
 
 ### Purpose
 
-<!-- Describe why this issue is being created. What do we want to achieve? -->
+<!-- Why is this page being created? -->
 
 ### Page Tree
 
@@ -20,17 +20,17 @@ nav:
   ...
   - Section:
     ...
-    - Page: section/page.md
+    - _Page_: _section_/_page_.md
 ```
 
 ### Topics
 
-<!-- What are some topics that will be discussed on the new page? -->
+<!-- What are some of the topics that will be discussed on the new page? -->
 
 - 
 
 ### Resources
 
-<!-- Link to any extra resources that might help with writing the new page. -->
+<!-- Link to any extra resources that might help and describe the relevance if not obvious. -->
 
 - 

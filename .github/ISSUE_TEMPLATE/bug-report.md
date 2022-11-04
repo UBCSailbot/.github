@@ -25,13 +25,13 @@ assignees: ''
 
 ### Relevant Code
 
-<!-- Link any relevant code from the codebase or from external sources and describe why it's helpful for the investigation. -->
+<!-- Link any code that you believe is causing the bug and explain why. Use GitHub permalinks when possible to show the lines of code. -->
 
-### Initial Thoughts
+### Potential Solutions
 
-<!-- Gather your initial thoughts as to why the bug exists and how the problem could potentially be solved. -->
+<!-- If you have any potential solutions at the moment, write down your ideas here. -->
 
 ### Resources
 
-<!-- Add any extra resources that you think others could find useful. -->
+<!-- Link to any extra resources that might help with the bug fixes and describe the relevance if not obvious. -->
 -
