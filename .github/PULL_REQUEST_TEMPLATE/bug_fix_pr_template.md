@@ -6,14 +6,13 @@ labels: bug
 assignees: ''
 ---
 
-<!-- Remember to link the Pull Request to an issue if applicable with <KEYWORD> <ISSUE NO.>. -->
-<!-- If this PR has no issue, delete the bullet below and add this PR to the Software project. -->
-- Resolves #[ISSUE NO.]
+<!-- Replace _issue_ with the issue number that this PR resolves, or delete the line and add this PR to the Software project if there is no related issue. -->
+- Resolves #_issue_
 
 ### Description
-
 <!-- Describe how the bug was resolved. Is the expected behavior observed? -->
 
-### Test Cases
 
-<!-- List any tests that were conducted that may prevent the bug from arising in the future. -->
+### Verification
+<!-- List any steps that were taken to verify that this bug is resolved. -->
+- 
