@@ -8,13 +8,11 @@ assignees: ''
 ---
 
 ### Purpose
-
 <!-- Why is this page being created? -->
 
+
 ### Page Tree
-
 <!-- Show the updated page tree when the new page is added. -->
-
 ```yml
 nav:
   ...
@@ -24,13 +22,9 @@ nav:
 ```
 
 ### Topics
-
 <!-- What are some of the topics that will be discussed on the new page? -->
-
 - 
 
 ### Resources
-
 <!-- Link to any extra resources that might help and describe the relevance if not obvious. -->
-
 - 
