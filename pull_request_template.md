@@ -1,4 +1,4 @@
-<!-- Remember to add the relevant assignee(s) and label(s). -->
+<!-- Remember to add the relevant reviewers, assignees, and labels, and create this PR as a draft if it is a work in progress. -->
 
 ### Description
 <!-- Replace _issue_ with the issue number that this PR resolves, or delete the line and add this PR to the Software project if there is no related issue. -->
