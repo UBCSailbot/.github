@@ -18,7 +18,7 @@ assignees: ''
 ```yml
 nav:
   ...
-  - Section:
+  - _Section_:
     ...
     - _Page_: _section_/_page_.md
 ```
