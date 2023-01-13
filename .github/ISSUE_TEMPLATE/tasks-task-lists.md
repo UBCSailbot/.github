@@ -1,29 +1,23 @@
 ---
-name: Task List Template
-about: Used for trackers, mainly in the tasks repository. Add guidelines to templates
+name: Create Tasklist
+about: Tasklists are used to keep track of issues, divide issues into smaller subtasks, and create new relationships between issues
 title: ''
-labels: infrastructure
+labels: tasklist
 assignees: ''
 ---
-
-<!-- ### Task list guidelines -->
-<!-- Add task list and sub tasks to project -->
-<!-- Clear task list status -->
-
-<!-- In a sub task PR if there isn’t a sub task issue, reference but do not resolve the task lisk (this should go in the PR template) -->
-<!-- In the task list, once sub task PR is merged and there isn’t a sub task issue, manually mark it complete in task list -->
+<!--
+Tasklist guidelines:
+- Add the tasklist issue and task issues to the Software project
+- To create a task from an existing issue, reference its number: e.g., #739
+    - Tasks cannot be created from closed issues or issues with linked pull requests
+- If a PR resolves a task that isn't an issue, convert it to one
+-->
 
 ### Purpose
-<!-- Why is this page being created? -->
+<!-- What does this tasklist track? -->
 
-### To Do
-<!-- You can directly link beside task list e.g: #739 or link --> 
-<!-- Note: You cannot create task list items within closed issues OR issues with linked pull requests. -->
+### Tasks
+<!-- The tasklist itself -->
 
-- [ ] <!-- Put description or link here without comments --> 
-- [ ] <!-- Put description or link here without comments-->
-- [ ] <!-- Put description or link here without comments-->
-  - [ ] <!-- Put description or link here without comments of subtask --> 
-
-- When finished task in to do, mark finished task as complete
-- Do not mark issue with tracker as closed
+- [ ] <!-- Issue number or description: --> 
+- [ ] <!-- Issue number or description: --> 
