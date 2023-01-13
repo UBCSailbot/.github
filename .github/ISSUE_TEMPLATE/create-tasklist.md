@@ -7,6 +7,7 @@ assignees: ''
 ---
 <!--
 Tasklist guidelines:
+- Considering pinning the tasklist issue
 - Add the tasklist issue and task issues to the Software project
 - To create a task from an existing issue, reference its number: e.g., #739
     - Tasks cannot be created from closed issues or issues with linked pull requests
