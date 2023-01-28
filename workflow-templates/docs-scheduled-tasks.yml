@@ -1,8 +1,11 @@
-name: Scheduled lint 
+name: Scheduled tasks
 
 on:
+    # Run scheduled tasks every x 
     schedule:
-    # 
+    # Use cron generator to generate a cron schedule
+        #e.g: At 4:05 AM every 15th day of each month
+        - cron: 5 4 15 * *
 
 
 # This is based on UBCSailbot/docs/weekly-lint.yml
