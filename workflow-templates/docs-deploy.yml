@@ -1,17 +1,28 @@
-name: Octo Organization CI
+name: Deploy Docs
 
 on:
   push:
-    branches: [ $default-branch ]
-  pull_request:
-    branches: [ $default-branch ]
+    branches: 
+        -main
 
+
+# This is based on .github/workflows/publish.yml
 jobs:
   build:
-    runs-on: ubuntu-latest
+       runs-on: ubuntu-latest
+        steps:
+          - name: Check out code
+            uses: actions/checkout@v2
+            with:
+              fetch-depth: '0'  # checkout all commits to get the actual page revision time
 
-    steps:
-      - uses: actions/checkout@v3
+          - name: Setup Python
+            uses: actions/setup-python@v2
+            with:
+              python-version: 3.x
 
-      - name: Run a one-line script
-        run: echo Hello from Octo Organization
+          - name: Install dependencies
+            run: pip install -r docs/requirements.txt
+
+          - name: Publish MkDocs application
+            run: mkdocs gh-deploy --force
