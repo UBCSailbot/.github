@@ -8,6 +8,7 @@ on:
 
 
 # This is based on .github/workflows/publish.yml
+# Jobs are ran every push to main 
 jobs:
   build:
        runs-on: ubuntu-latest

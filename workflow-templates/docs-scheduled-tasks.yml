@@ -9,6 +9,7 @@ on:
 
 
 # This is based on UBCSailbot/docs/weekly-lint.yml
+# Jobs are the tasks ran every schedule you have defined above - cron: ...
 jobs:
   # https://github.com/gaurav-nelson/github-action-markdown-link-check
   markdown-link-check:

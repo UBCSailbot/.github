@@ -9,6 +9,7 @@ on:
     branches: 
 
 # This is based on UBCSailbot/docs/lint.yml
+# Jobs are the tasks ran on every push to main 
 jobs:
   # https://github.com/nosborn/github-action-markdown-cli
   markdownlint:
