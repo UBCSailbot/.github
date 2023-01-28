@@ -1,5 +1,6 @@
 name: Deploy Docs
 
+# Runs whenever push to main branch 
 on:
   push:
     branches: 

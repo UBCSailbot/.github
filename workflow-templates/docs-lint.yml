@@ -1,5 +1,6 @@
 name: Docs lint 
 
+# Runs whenever there is a push to main branch 
 on:
   push:
     branches: 
