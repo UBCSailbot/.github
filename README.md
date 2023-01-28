@@ -2,7 +2,7 @@
 Organization-wide files and templates
 
 ### Issue templates
-For issues in repos```
+For issues in repos
 
 ### Workflow templates
 For workflow actions.
