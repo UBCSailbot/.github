@@ -1,3 +1,3 @@
-#Template for commonly used workflows
+## Template for commonly used workflows
 
-docs-deploy, docs-lint, docs-scheduled tasks workflow templates based on workflows in UBCSailbot/docs 
+docs-deploy, docs-lint, docs-scheduled tasks workflow templates based on workflows in [UBCSailbot/docs](https://github.com/UBCSailbot/docs)
