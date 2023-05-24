@@ -9,3 +9,7 @@
 ### Verification
 <!-- List the steps that were taken to verify that the changes introduced by this PR function as desired and without side effects. -->
 - [ ] 
+
+### Resources
+<!-- Link to any resources that are relevant to this PR. -->
+- 
